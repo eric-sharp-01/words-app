@@ -1,0 +1,135 @@
+body {
+    background-image: url('/bg.jpg');
+
+    .home{
+        .home-header{
+            color: white;
+            font-weight: bold;
+            font-size: 80px;
+            padding: 10px 15px;
+            background: rgba(33, 33, 33, 0.45);
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            width: 420px;
+            margin: auto;
+            margin-bottom: 15px;
+    
+            .icon-block{
+                display: flex;
+                padding-right: 10px;
+                
+                svg{
+                    font-size: 40px;
+                }
+            }
+    
+            .text-block{
+                color: white;
+                font-size: 90px;
+            }
+        }
+    
+        .home-main{
+            .word-search{
+                .paper{
+                    padding: 2px 4px;
+                    display: flex;
+                    align-items: center;
+                }
+        
+                .input-base{
+                    flex: 1;
+                    padding-left: 15px;
+                }
+        
+                .icon-button{
+                    padding: 10px;
+                }
+        
+                .divider{
+                    height: 28px;
+                    margin: 4px;
+                }
+            }
+        
+            .word-list {
+                background: white;
+                margin-top: 20px;
+                max-height: 500px;
+                overflow: auto;
+        
+                .word-item {
+                    .word-def {
+                        color: #303336;
+                        font-size: 18px;
+                        font-stretch: normal;
+                        letter-spacing: .2px;
+                        line-height: 22px;
+        
+                        span:nth-child(1) {
+                            padding-right: 10px;
+                            color: gray;
+                            font-size: 16px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .notebook{
+        h4{
+            text-align: center;
+            color: white;
+            font-weight: bold;
+            font-size: 30px;
+            margin-bottom: 10px;
+            background: linear-gradient(45deg, #132b7d, rgba(14, 121, 204, 0.5));
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .grid-container{
+            padding: 10px;
+            border-radius: 10px;
+            border: 2px solid #ececec;
+    
+            .word-card{
+                color: rgba(0, 0, 0, 0.54);
+                text-align: center;
+                cursor: pointer;
+    
+                button{
+                    width: 100%;
+                    text-transform: capitalize;
+                }
+            }
+        }
+    }
+}
+
+.flex-1{
+    flex: 1;
+}
+
+.nav-menu{
+    width: 300px;
+    margin-top: 20px;
+
+    a{
+        text-decoration: none;
+        color: inherit;
+    }
+}
+
+.modal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .modal-main{
+        background: white;
+        padding: 10px;
+    }
+}
