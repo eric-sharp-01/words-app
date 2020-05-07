@@ -37,7 +37,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _components_Home__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ./components/Home */ "./src/components/Home.tsx");
 /* harmony import */ var _components_Notebook__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ./components/Notebook */ "./src/components/Notebook.tsx");
 /* harmony import */ var _components_Navbar__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ./components/Navbar */ "./src/components/Navbar.tsx");
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\ClientApp\\words-app\\src\\App.tsx";
+var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\projects\\words-app\\src\\App.tsx";
 
 
 
@@ -202,7 +202,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core_Snackbar__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! @material-ui/core/Snackbar */ "./node_modules/@material-ui/core/esm/Snackbar/index.js");
 /* harmony import */ var _material_ui_lab_Alert__WEBPACK_IMPORTED_MODULE_13__ = __webpack_require__(/*! @material-ui/lab/Alert */ "./node_modules/@material-ui/lab/esm/Alert/index.js");
 /* harmony import */ var _material_ui_core_LinearProgress__WEBPACK_IMPORTED_MODULE_14__ = __webpack_require__(/*! @material-ui/core/LinearProgress */ "./node_modules/@material-ui/core/esm/LinearProgress/index.js");
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\ClientApp\\words-app\\src\\components\\Home.tsx";
+var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\projects\\words-app\\src\\components\\Home.tsx";
 
 
 
@@ -558,7 +558,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_icons_MenuBook__WEBPACK_IMPORTED_MODULE_9___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_MenuBook__WEBPACK_IMPORTED_MODULE_9__);
 /* harmony import */ var _material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! @material-ui/icons/Menu */ "./node_modules/@material-ui/icons/Menu.js");
 /* harmony import */ var _material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_10___default = /*#__PURE__*/__webpack_require__.n(_material_ui_icons_Menu__WEBPACK_IMPORTED_MODULE_10__);
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\ClientApp\\words-app\\src\\components\\Navbar.tsx";
+var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\projects\\words-app\\src\\components\\Navbar.tsx";
 
 
 
@@ -725,7 +725,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _material_ui_core__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @material-ui/core */ "./node_modules/@material-ui/core/esm/index.js");
 /* harmony import */ var _material_ui_core_Button__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @material-ui/core/Button */ "./node_modules/@material-ui/core/esm/Button/index.js");
 /* harmony import */ var _material_ui_core_LinearProgress__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! @material-ui/core/LinearProgress */ "./node_modules/@material-ui/core/esm/LinearProgress/index.js");
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\ClientApp\\words-app\\src\\components\\Notebook.tsx";
+var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\projects\\words-app\\src\\components\\Notebook.tsx";
 
 
 
@@ -784,7 +784,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 56,
+          lineNumber: 55,
           columnNumber: 23
         }
       });
@@ -799,7 +799,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 60,
+            lineNumber: 59,
             columnNumber: 21
           }
         }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_material_ui_core_Paper__WEBPACK_IMPORTED_MODULE_3__["default"], {
@@ -807,7 +807,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 61,
+            lineNumber: 60,
             columnNumber: 25
           }
         }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_material_ui_core_Button__WEBPACK_IMPORTED_MODULE_6__["default"], {
@@ -818,7 +818,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
           __self: this,
           __source: {
             fileName: _jsxFileName,
-            lineNumber: 62,
+            lineNumber: 61,
             columnNumber: 29
           }
         }, word)));
@@ -829,7 +829,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
         __self: this,
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 69,
+          lineNumber: 68,
           columnNumber: 23
         }
       }, list);
@@ -842,14 +842,14 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 72,
+        lineNumber: 71,
         columnNumber: 16
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 73,
+        lineNumber: 72,
         columnNumber: 13
       }
     }, "Notebook"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_material_ui_core_Grid__WEBPACK_IMPORTED_MODULE_4__["default"], {
@@ -859,7 +859,7 @@ class Notebook extends react__WEBPACK_IMPORTED_MODULE_0__["Component"] {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 74,
+        lineNumber: 73,
         columnNumber: 13
       }
     }, content));
@@ -889,7 +889,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _App__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./App */ "./src/App.tsx");
 /* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./scss/index.scss */ "./src/scss/index.scss");
 /* harmony import */ var _scss_index_scss__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_scss_index_scss__WEBPACK_IMPORTED_MODULE_5__);
-var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\ClientApp\\words-app\\src\\index.js";
+var _jsxFileName = "C:\\Users\\Administrator\\Desktop\\projects\\words-app\\src\\index.js";
 
 
 
@@ -912,7 +912,6 @@ const reducers = (state = intialState, action) => {
       };
 
     case "SET_WORD":
-      console.log(action.payload);
       return { ...state,
         currentWord: action.payload
       };
@@ -933,14 +932,14 @@ react_dom__WEBPACK_IMPORTED_MODULE_1___default.a.render( /*#__PURE__*/react__WEB
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 43,
+    lineNumber: 42,
     columnNumber: 3
   }
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_App__WEBPACK_IMPORTED_MODULE_4__["default"], {
   __self: undefined,
   __source: {
     fileName: _jsxFileName,
-    lineNumber: 44,
+    lineNumber: 43,
     columnNumber: 5
   }
 })), document.getElementById('root'));
@@ -1009,12 +1008,12 @@ if(true) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Administrator\Desktop\ClientApp\words-app\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
-__webpack_require__(/*! C:\Users\Administrator\Desktop\ClientApp\words-app\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
-module.exports = __webpack_require__(/*! C:\Users\Administrator\Desktop\ClientApp\words-app\src\index.js */"./src/index.js");
+__webpack_require__(/*! C:\Users\Administrator\Desktop\projects\words-app\node_modules\webpack\hot\dev-server.js */"./node_modules/webpack/hot/dev-server.js");
+__webpack_require__(/*! C:\Users\Administrator\Desktop\projects\words-app\node_modules\react-dev-utils\webpackHotDevClient.js */"./node_modules/react-dev-utils/webpackHotDevClient.js");
+module.exports = __webpack_require__(/*! C:\Users\Administrator\Desktop\projects\words-app\src\index.js */"./src/index.js");
 
 
 /***/ })
 
-},[[1,"runtime-main",1]]]);
+},[[1,"runtime-main",0]]]);
 //# sourceMappingURL=main.chunk.js.map
